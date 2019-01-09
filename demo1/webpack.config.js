@@ -11,10 +11,7 @@ module.exports = {
     publicPath: 'pathOrUrlWhenProductionBuild'
   },
   module: {
-    rules: [{
-      test: /\.css$/,
-      use: ['style-loader', 'css-loader'],
-    }]
+    rules: []
   },
   resolve: {},
   devtool: 'source-map',
