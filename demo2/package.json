@@ -1,0 +1,16 @@
+{
+  "name": "es6-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "^2.1.0",
+    "style-loader": "^0.23.1"
+  }
+}
