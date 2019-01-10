@@ -1,0 +1,6 @@
+body {
+  /* background: red; */
+  height: 100px;
+  background-size: cover;
+  background-image: url('./demo.png');
+}
